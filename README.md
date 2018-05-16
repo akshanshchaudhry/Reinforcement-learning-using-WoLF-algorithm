@@ -27,3 +27,7 @@ Output:- In the end you will get the Nash Equilibrium of all the states in the g
 
 Please go through the attached report in order to understand the concept.
 
+
+References: -
+a. http://www.cs.cmu.edu/~mmv/papers/01ijcai-mike.pdf
+b. http://www.masfoundations.org/mas.pdf
