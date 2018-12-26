@@ -1,6 +1,6 @@
 # Reinforcement-learning-using-WoLF-algorithm
 
-This a project in which reinforcement machine learning is applied. The problem statement of the project is defined below. I have use WoLF (win or learn fast) algorithm to achieve the desired results.
+This is a project in which reinforcement machine learning is applied. The problem statement of the project is defined below. I have use WoLF (win or learn fast) algorithm to achieve the desired results.
 
 ##############################################################################################################################
 
